@@ -12,7 +12,7 @@ This simple Python program uses the `pytube` library to download YouTube videos.
 
 3. Run the script with the YouTube video URL as an argument:
    ```bash
-   python youtube_downloader.py <video_url>
+   python youTubeDownloader.py <video_url>
    ```
    Replace `<video_url>` with the actual URL of the YouTube video you want to download.
 
